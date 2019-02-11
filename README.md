@@ -1,2 +1,2 @@
 # huddle-landing
-v1.0 desktop only. Will update in a while
+Frontend mentor challenge. v1.0 – desktop only. Will update in a while
